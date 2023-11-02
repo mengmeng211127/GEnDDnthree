@@ -29,5 +29,5 @@ In this work，lncRNADisease is data1 and MNDR is data2.
 ```Java
 
  ```
-* 
+![流程图](流程图.png) 
  
