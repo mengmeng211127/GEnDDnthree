@@ -27,8 +27,6 @@ Default is 5-fold const name='' cross validation from
 In this work，lncRNADisease is data1 and MNDR is data2.
 ##Environment
 ```Java
- public static void main(String args[]){
-    System.out.print("HelloWorld");
- }
+
  ```
  
