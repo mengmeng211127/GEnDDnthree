@@ -1,14 +1,5 @@
 # overview
-gggg
-gggg
-
-g
-
-
-g
-
-gg
-
+![chart](chart.png) 
 .tensorflow-gpu 2.6.0numpy 
  1.19.5
 pandas 
@@ -29,5 +20,5 @@ In this work，lncRNADisease is data1 and MNDR is data2.
 ```Java
 
  ```
-![chart](chart.pdf) 
+
  
