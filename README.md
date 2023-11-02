@@ -8,10 +8,7 @@ g
 g
 
 gg
-## DATA
 
-In this work，lncRNADisease is data1 and MNDR is data2.
-##Environment
 .tensorflow-gpu 2.6.0numpy 
  1.19.5
 pandas 
@@ -20,7 +17,18 @@ scikit-learn
  0.24.2
 pai4sk == 3.5.2
 ##USERAGE
-Default is 5-fold cross validation from 
+Default is 5-fold const name='' cross validation from 
  to 
  on lncRNADisease and MNDR databases. To run this model：
+'''
+'''
+## DATA
+
+In this work，lncRNADisease is data1 and MNDR is data2.
+##Environment
+```Java
+ public static void main(String args[]){
+    System.out.print("HelloWorld");
+ }
+ ```
  
